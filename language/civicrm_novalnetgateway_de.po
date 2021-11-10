@@ -1,0 +1,924 @@
+# Copyright CiviCRM LLC (c) 2004-2012
+# This file is distributed under the same license as the CiviCRM package.
+# If you contribute heavily to a translation and deem your work copyrightable,
+# make sure you license it to CiviCRM LLC under Academic Free License 3.0.
+# Translators:
+# translatosaurus <accounts@drexler.eu>, 2012-2013
+# Cibes <cibessl@gmail.com>, 2012
+# Detlev Sieber <detlev.sieber@foebud.org>, 2011
+# Hartmut Holzgraefe <hartmut@php.net>, 2011
+# NeoAlpha <lars.schmidt@neo-alpha.org>, 2013
+# MichaSeidler <info@euroconsults.eu>, 2011
+# m_peth <peth@systopia.de>, 2012
+# Piotr Szotkowski <chastell@chastell.net>, 2011
+# systopia.fabian <schuttenberg@systopia.de>, 2013
+# systopia.fabian <schuttenberg@systopia.de>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: CiviCRM\n"
+"Report-Msgid-Bugs-To: http://issues.civicrm.org/\n"
+"POT-Creation-Date: 2013-05-31 09:03-0400\n"
+"PO-Revision-Date: 2014-02-21 11:37+0530\n"
+"Last-Translator: Novalnet <sa@novalnet-solutions.com>\n"
+"Language-Team: German (http://www.transifex.com/projects/p/civicrm/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Novalnet Credit Card"
+msgstr "Novalnet Kreditkarte"
+
+msgid "Credit Card"
+msgstr "Kreditkarte"
+
+msgid "Novalnet Direct Debit Austria"
+msgstr "Novalnet Lastschrift Österreich"
+
+msgid "Direct Debit Austria"
+msgstr "Lastschrift Österreich"
+
+msgid "Direct Debit  Austria"
+msgstr "Lastschrift Österreich"
+
+msgid "Novalnet Direct Debit German"
+msgstr "Novalnet Lastschrift Deutschland"
+
+msgid "Direct Debit German"
+msgstr "Lastschrift Deutschland"
+
+msgid "Novalnet Invoice"
+msgstr "Novalnet Kauf auf Rechnung"
+
+msgid "Invoice"
+msgstr "Kauf auf Rechnung"
+
+msgid "Novalnet Prepayment"
+msgstr "Novalnet Vorauskasse"
+
+msgid "Prepayment"
+msgstr "Vorauskasse"
+
+msgid "Novalnet Instant Bank Transfer"
+msgstr "Novalnet Sofortüberweisung"
+
+msgid "Instant Bank Transfer"
+msgstr "Sofortüberweisung"
+
+msgid "Card Holder Name"
+msgstr "Name des Karteninhabers"
+
+msgid "Credit Card No"
+msgstr "Kreditkarte Nummer"
+
+msgid "Expiry Month"
+msgstr "Monat des Ablaufdatums"
+
+msgid "Expiry Year"
+msgstr "Jahr des Ablaufdatums"
+
+msgid "YES"
+msgstr "JA"
+
+msgid "NO"
+msgstr "NEIN"
+
+msgid "Bank Account Owner"
+msgstr "Bank Kontoinhaber"
+
+msgid "Bank Account Number"
+msgstr "Bank Kontonummer"
+
+msgid "Bank Code :"
+msgstr "Bankleitzahl :"
+
+msgid "Account number"
+msgstr "Kontonummer"
+
+msgid "Enable ACDC Check"
+msgstr "ACDC Check aktivieren"
+
+msgid "Please transfer the amount to following account:"
+msgstr "Bitte ueberweisen Sie den Rechnungsbetrag auf folgendes Konto:"
+
+msgid "Only for international transfers:"
+msgstr "Nur bei Auslandsüberweisungen:"
+
+msgid "Account holder : NOVALNET AG"
+msgstr "Kontoinhaber : Novalnet AG"
+
+msgid "Account holder :"
+msgstr "Kontoinhaber :"
+
+msgid "BLZ :"
+msgstr "BLZ :"
+
+msgid "Bank :"
+msgstr "Bank :"
+
+msgid "IBAN :"
+msgstr "IBAN :"
+
+msgid "SWIFT / BIC :"
+msgstr "SWIFT / BIC :"
+
+msgid "Amount :"
+msgstr "Betrag :"
+
+msgid "Reference :"
+msgstr "Verwendungszweck :"
+
+msgid "Novalnet Transaction ID :"
+msgstr "Novalnet Transaktions-ID :"
+
+msgid "Novalnet Transaction ID"
+msgstr "Novalnet Transaktions-ID"
+
+msgid "Payment Method :"
+msgstr "Zahlungsarten :"
+
+msgid "Payment Method"
+msgstr "Zahlungsarten"
+
+msgid "Please note that the Transfer can only be identified with the above mentioned Reference."
+msgstr "Bitte beachten Sie, dass die üeberweisung nur bearbeitet werden kann wenn der oben angegebene Verwendungszweck verwendet wird"
+
+msgid "You will be redirected to Novalnet AG Payment Gateway"
+msgstr "Sie werden auf das Novalnet Payment Gateway umgeleitet, wenn Sie eine Bestellung abschicken."
+
+msgid "Redirect the Customers to Paypal Website to Make Payment"
+msgstr "Leiten Sie die Kunden zu PayPal-Website, um Zahlung zu leisten."
+
+msgid "Redirect into Novalnet Payment Gateway."
+msgstr "Umleitung zum Novalnet Payment Gateway."
+
+msgid "Enable Test Mode"
+msgstr "Testmodus einschalten"
+
+msgid "There was an error and your payment could not be completed."
+msgstr "Ein Fehler trat auf und Ihre Zahlung konnte nicht abgeschlossen werden."
+
+msgid "Novalnet Transaction OK."
+msgstr "Novalnet Transaktion OK."
+
+msgid "Novalnet Telephone Payment"
+msgstr "Novalnet Telefonpayment"
+
+msgid "Test Order"
+msgstr "Testbestellung"
+
+msgid "Process credit card payments through the Test Gateway."
+msgstr "Verarbeitung der Kreditkartenzahlungen durch das Test-Gateway."
+
+msgid "credit Card"
+msgstr "Kreditkarte"
+
+msgid "Second Product Id"
+msgstr "Zweite Produkt ID"
+
+msgid "Enter the Novalnet Second Product Id"
+msgstr "Geben Sie die Novalnet Zweites Produkt Id"
+
+msgid "Second Tariff Id"
+msgstr "Zweite Tarif Id"
+
+msgid "Credit Card Number"
+msgstr "Nummer der Kreditkarte"
+
+msgid "Enter the Novalnet Second Tariff Id"
+msgstr "Geben Sie die Novalnet zweite Tarif Id"
+
+msgid "Please enter the Telephone / Mobilenumber"
+msgstr "Geben Sie bitte die Telefon- / Handynummer ein"
+
+msgid "Please enter valid account details!"
+msgstr "Geben Sie bitte g&uuml;ltige Kontodaten ein!"
+
+msgid "Please enter the E-Mail Address"
+msgstr "Bitte geben Sie die E-Mail-Adresse. "
+
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+msgid "Mobile phone number"
+msgstr "Mobiltelefonnummer"
+
+msgid "PIN you have entered is incorrect or empty!"
+msgstr "Die eingegebene PIN ist falsch oder leer!"
+
+msgid "Your PIN session has expired, Please try again"
+msgstr "Ihre PIN-Session abgelaufen ist, bitte versuchen Sie es erneut"
+
+msgid "You will shortly receive a PIN by phone / SMS. Please enter the PIN in the appropriate text box"
+msgstr "Sie erhalten in Kürze eine PIN per Telefon/SMS. Geben Sie bitte die PIN in das entsprechende Textfeld ein."
+
+msgid "Card type"
+msgstr "Kreditkarten-Typ"
+
+msgid "Card owner"
+msgstr "Kreditkarten-Inhaber"
+
+msgid "Card number"
+msgstr "Kartennummer"
+
+msgid "Issuing bank"
+msgstr "Ausstellendes Kreditinstitut"
+
+msgid "Process card"
+msgstr "Kreditkarte verarbeiten"
+
+msgid "(Last 4) "
+msgstr "(Letzte 4)"
+
+msgid "Month :"
+msgstr "monat :"
+
+msgid "Year :"
+msgstr "Jahr :"
+
+msgid "Expiration Month"
+msgstr "Monat des Ablaufdatums"
+
+msgid "Expiration Year"
+msgstr "Jahr des Ablaufdatums"
+
+msgid "Issue Number"
+msgstr "Ausgabenummer"
+
+msgid "CVC (Verification Code)"
+msgstr "CVC (Prüfziffer)"
+
+msgid "Oops! Enter the Correct Pin number."
+msgstr "Oops! Geben Sie die korrekte PIN-Nummer."
+
+msgid "Issuing Bank:"
+msgstr "Ausstellende Bank"
+
+msgid "Pay via bank debit."
+msgstr "Bezahlung per Bankeinzug."
+
+msgid "Invalid Account Holder name"
+msgstr "Bitte geben Sie einen Kontoinhaber ein"
+
+msgid "Please Enter your Account Number"
+msgstr "Bitte geben Sie eine Kontonummer ein"
+
+msgid "Please Enter your Bank Code"
+msgstr "Bitte geben Sie eine Bankleitzahl ein"
+
+msgid "Account holder"
+msgstr "Kontoinhaber"
+
+msgid "Due date :"
+msgstr "Fälligkeitsdatum :"
+
+msgid "Account No"
+msgstr "Kontonr."
+
+msgid "Bank code"
+msgstr "Bankleitzahl"
+
+msgid "Account Number"
+msgstr "Kontonummer"
+
+msgid "ACDC Control"
+msgstr "ACDC Check"
+
+msgid "Enter the Pin Number"
+msgstr "Geben Sie die PIN-Nummer"
+
+msgid "Enable ACDC Check !"
+msgstr "Bitte akzeptieren Sie den ACDC Check"
+
+msgid "Payment period in days"
+msgstr "Zahlungsfrist in Tagen"
+
+msgid "Enter The Payment Period"
+msgstr "Geben Sie die Zahlungsdauer"
+
+msgid "Specify Payment Duration for Invoice Process"
+msgstr "Zahlungsfrist fuer Rechnungszahlung"
+
+msgid " to following account:"
+msgstr " auf folgendes Konto:"
+
+msgid "Account number :"
+msgstr "Kontonummer :"
+
+msgid "Bankcode :"
+msgstr "Bankleitzahl :"
+
+msgid "Swift:"
+msgstr "Swift:"
+
+msgid "Enter the New pin You have received !"
+msgstr "Geben Sie die neue PIN, die Sie erhalten haben!"
+
+msgid "Redirect customers to their online bank account to let them make a transfer."
+msgstr "Die Kunden werden zu ihrem Online-Bankkonto umgeleitet, um eine Ueberweisung durchzufuehren."
+
+msgid "PayPal API User Name"
+msgstr "PayPal API Benutzername"
+
+msgid "Please enter your PayPal API username"
+msgstr "Geben Sie Ihren PayPal API Benutzernamen ein"
+
+msgid "PayPal API Password"
+msgstr "PayPal API Passwort"
+
+msgid "Please enter your PayPal API password"
+msgstr "Geben Sie Ihr PayPal API Passwort ein"
+
+msgid "PayPal API Signature"
+msgstr "PayPal API Signatur"
+
+msgid "Please enter your PayPal API signature"
+msgstr "Geben Sie Ihre PayPal API Signatur ein"
+
+msgid "The default value is only valid in test mode. For live use, get your key from your account at !url -> Stammdaten -> Paymentzugriffsschluessel."
+msgstr "Fuer Online-Zahlungen (Sofortueberweisung) muessen Sie ein Passwort im Adminbereich eingeben. Sie koennen Ihr Passwort ueber das Admin-Tool erhalten: https://admin.novalnet.de -> Stammdaten -> Paymentzugriffsschluessel"
+
+msgid "Payment of @amount @currency submitted through Sofortueberweisung.de."
+msgstr "Die Zahlung von @amount @currency durch Sofortueberweisung.de vorgelegt."
+
+msgid "You will be Redirected to Novalnet AG Payment Gateway."
+msgstr "Sie werden auf Novalnet AG Payment Gateway Weitergeleitet."
+
+msgid "Visa"
+msgstr "Visa"
+
+msgid "Mastercard"
+msgstr "Mastercard"
+
+msgid "Discover"
+msgstr "Discover"
+
+msgid "American Express"
+msgstr "American Express"
+
+msgid "The path for the Novalnet handler script to return payment status is automatically set to "
+msgstr "Der Pfad fuer die Novalnet Haendler-Skript zur Rueckgabe des Zahlungsstatus steht automatisch auf "
+
+msgid "Novalnet settings"
+msgstr "Novalnet Einstellungen"
+
+msgid "Credit card holder"
+msgstr "Kreditkarteninhaber"
+
+msgid "Credit card number"
+msgstr "Kartennummer"
+
+msgid "Month"
+msgstr "Monat"
+
+msgid "January"
+msgstr "Januar"
+
+msgid "Febraury"
+msgstr "Febraur"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "Dezember"
+
+msgid "Year"
+msgstr "Jahr"
+
+msgid "Handy/Mobile:"
+msgstr "Handy/Mobil:"
+
+msgid "Mobile:"
+msgstr "Mobil:"
+
+msgid "Novalnet PayPal"
+msgstr "Novalnet PayPal"
+
+msgid "Novalnet-PayPal"
+msgstr "Novalnet-PayPal"
+
+msgid "Redirect the Customers to PayPal Website to Make Payment."
+msgstr "Leiten Sie die Kunden zu PayPal-Website, um Zahlung zu leisten."
+
+msgid "Oops ! unusuall Payment Completion Order Cannot be completed."
+msgstr "Oops! unusuall Payment Fertigstellung Auftrag kann nicht abgeschlossen werden."
+
+msgid "Novalnet only supports payments in Euros! Change your store settings!here_link."
+msgstr "Novalnet unterstuetzt nur Zahlungen in Euro! Aendern Sie Ihre Shop-Einstellungen !here_link."
+
+msgid "Novalnet CURL Timeout"
+msgstr "Novalnet CURL Timeout"
+
+msgid "TEST MODE (Do you want to test Novalnet Credit Card module with TEST MODE?)"
+msgstr "TEST MODUS (Wollen Sie das Novalnet Kreditkarten-Modul im TESTMODUS testen?)"
+
+msgid "Received by Novalnet AG"
+msgstr "von Novalnet AG erhalten"
+
+msgid "You will be redirected automatically. If not more than 5 seconds, click here"
+msgstr "Sie werden automatisch weitergeleitet. Falls nach 5 Sekunden nicht, dann bitte hier klicken"
+
+msgid "Payment pending"
+msgstr "Zahlung wird ausgeführt"
+
+msgid "Novalnet Merchant ID"
+msgstr "Novalnet H&auml;ndler ID"
+
+msgid "Enter your Novalnet Merchant ID"
+msgstr "Geben Sie Ihre Novalnet Händler-ID ein"
+
+msgid "Novalnet Merchant Authorisation Code"
+msgstr "Novalnet Authorisierungsschl&uuml;ssel"
+
+msgid "Enter your Novalnet Merchant Authorisation code"
+msgstr "Geben Sie Ihren Novalnet-Authorisierungsschlüssel ein"
+
+msgid "Novalnet Product ID"
+msgstr "Novalnet Produkt ID"
+
+msgid "Enter your Novalnet Product ID"
+msgstr "Geben Sie Ihre Novalnet Produkt-ID ein"
+
+msgid "Novalnet Tariff ID"
+msgstr "Novalnet Tarif ID"
+
+msgid "Enter your Novalnet Tariff ID"
+msgstr "Geben Sie Ihre Novalnet Tarif-ID ein"
+
+msgid "Manual checking amount in cents"
+msgstr "Manuelle Überprüfung des Betrags in Cent"
+
+msgid "Please enter the amount in cents"
+msgstr "Bitte den Betrag in Cent eingeben"
+
+msgid "Second Product ID in Novalnet"
+msgstr "Zweite Novalnet Produkt ID"
+
+msgid "Second Tariff ID in Novalnet"
+msgstr "Zweite Novalnet Tarif ID"
+
+msgid "for the manual checking"
+msgstr "zur manuellen Überprüfung"
+
+msgid "Novalnet Password"
+msgstr "Novalnet Passwort"
+
+msgid "Enter your Novalnet Password"
+msgstr "Geben Sie Ihr Novalnet Passwort ein"
+
+msgid "Information to the end customer"
+msgstr "Informationen für den End kunden"
+
+msgid "will appear in the payment form"
+msgstr "wird im Bezahlformular erscheinen"
+
+msgid "Input Data Missing"
+msgstr "Eingang Daten vermisst"
+
+msgid "Please enter valid credit card details!"
+msgstr "Geben Sie bitte gültige Kreditkartendaten ein!"
+
+msgid "Credit Card Holder name should be two or more characters long."
+msgstr "Kreditkartenetui Name sollte zwei oder mehr Zeichen lang sein."
+
+msgid "Bank account owner name should be two or more characters long."
+msgstr "Bankverbindung Inhaber Name sollte zwei oder mehr Zeichen lang sein."
+
+msgid "You will be redirected automatically. If not for more than 10 seconds click here"
+msgstr "Sie werden automatischumgeleitet werden. Wenn nicht mehr als 10 sec klicken Sie hier"
+
+msgid "You will be redirected automatically. If not more than 10 seconds, click here"
+msgstr "Sie werden automatisch weitergeleitet. Falls nach 10 Sekunden nicht, dann bitte hier klicken"
+
+msgid "Redirecting...."
+msgstr "Umleiten ...."
+
+msgid "Please transfer the amount at the latest, untill "
+msgstr "Bitte ueberweisen Sie den Betrag spaetestens bis zum "
+
+msgid "Enter the Valid Account Details !"
+msgstr "Geben Sie das g&uuml;ltige Bankverbindung!"
+
+msgid "Minimum Amount Limit for PIN by Callback"
+msgstr "Mindestbetrag f&uuml;r Limit-PIN per R&uuml;ckruf"
+
+msgid "Please note down the below Transaction details provided by Novalnet (TID)"
+msgstr "Bitte notieren Sie sich die unten Details der Transaktion zur Verfügung gestellt von Novalnet (TID)"
+
+msgid "You have changed the order amount after getting PIN number, please try again with a new call"
+msgstr "Sie haben die Bestellmenge nach dem Erhalt der PIN-Nummer ge&auml;ndert, versuchen Sie es bitte erneut mit einem neuen Anruf"
+
+msgid "You have changed the order amount after getting e-mail, please try again with a new call"
+msgstr "Sie haben die Bestellmenge nach dem Erhalt der Email ge&auml;ndert, versuchen Sie es bitte erneut mit einem neuen Anruf"
+
+msgid "Please transfer the amount to the following information to our payment service Novalnet AG"
+msgstr "Bitte Überweisen Sie den Betrag mit der folgenden Information an unseren Zahlungsdienstleister Novalnet AG"
+
+msgid "Novalnet Payment Settings"
+msgstr "Novalnet Zahlung Einstellungen"
+
+msgid "Manual limit amount / Product-ID2 / Tariff-ID2 is not valid"
+msgstr "Ungültige Bestellgrenze / 2. Produkt-ID / 2. Tarif-ID"
+
+msgid "Customer name/email fields are not valid"
+msgstr "Ungültige Werte für die Felder Kundenname-/email"
+
+msgid "We have sent a email, please answer"
+msgstr "Wir haben Ihnen eine Email geschickt, beantworten Sie diese bitte."
+
+msgid "Email Reply"
+msgstr "Antwort per Email"
+
+msgid "Reply-mail is still pending"
+msgstr "Reply-Email steht noch aus"
+
+msgid "The invoice number already exists"
+msgstr "Die Rechnungsnummer existiert bereits"
+
+msgid "PIN by Callback/SMS/E-Mail"
+msgstr "PIN by Callback/SMS/E-Mail "
+
+msgid "PIN by Callback/SMS"
+msgstr "PIN by Callback/SMS"
+
+msgid "novalnet.com"
+msgstr "novalnet.de"
+
+msgid "German Direct Debit"
+msgstr "Deutsche Lastschriftverfahren"
+
+msgid "Austrian Direct Debit"
+msgstr "Österreichische Lastschriftverfahren"
+
+msgid "Your PIN session has expired. Please try again."
+msgstr "Ihre PIN-Session ist abgelaufen. Bitte versuchen Sie es noch einmal."
+
+msgid "Oops! Maximum Time Exceeded."
+msgstr "Oops! Maximale Zeit&uuml;berschreitung."
+
+msgid "Maximum number of PIN entries exceeded!"
+msgstr "Maximale Anzahl von PIN-Eingaben überschritten!"
+
+msgid "Forgot PIN? [New PIN Request]"
+msgstr "PIN vergessen? [Neue PIN beantragen]"
+
+msgid "PIN Number"
+msgstr "PIN-Nummer"
+
+msgid "Enter Your Pin"
+msgstr "Geben Sie Ihre PIN"
+
+msgid "Email Address"
+msgstr "E-Mail Adresse"
+
+msgid "Basic parameter not valid"
+msgstr "Ungültige Parameter für die Händlereinstellungen"
+
+msgid "Minimum Amount Limit for Callback in cents"
+msgstr "Grenzwert (Mindestbetrag) in Cent für Rückruf"
+
+msgid "http://www.novalnet.com"
+msgstr "https://www.novalnet.de"
+
+msgid "If you use a Proxy Server, enter the Proxy Server IP with port here (e.g. www.proxy.de:80)"
+msgstr "Wenn Sie einen Proxy-Server einsetzen, tragen Sie hier Ihre Proxy-IP und den Port ein (z.B. www.proxy.de:80)"
+
+msgid "* On Visa-, Master- and Eurocard you will find the 3 digit CVC-Code near the signature field at the rearside of the creditcard."
+msgstr "* Bei Visa-, Master- und Eurocard besteht der CVC-Code aus den drei letzten Ziffern im Unterschriftenfeld auf der Rückseite der Kreditkarte."
+
+msgid "sofort_en.png"
+msgstr "sofort_de.jpg"
+
+msgid "Enable Account Check Direct Control (ACDC)"
+msgstr "ACDC (Account Check Direct Control)-Check aktivieren"
+
+msgid "The ACDC-Check Accepted"
+msgstr "Der ACDC-Check wird akzeptiert"
+
+msgid "The bank details will be emailed to you soon after the completion of checkout process."
+msgstr "Die Bankverbindung wird Ihnen nach Abschluss Ihrer Bestellung per E-Mail zugeschickt."
+
+msgid "The amount will be booked immediately from your credit card when you submit the order."
+msgstr "Die Belastung Ihrer Kreditkarte erfolgt mit dem Abschluss der Bestellung."
+
+msgid "Amounts below 0,99 Euros and above 10,00 Euros cannot be processed and are not accepted!"
+msgstr "Betraege unter 0,99 Euro und ueber 10,00 Euro koennen nicht verarbeitet werden bzw. werden nicht akzeptiert!"
+
+msgid "Your account will be debited upon delivery of goods."
+msgstr "Die Belastung Ihres Kontos erfolgt mit dem Versand der Ware."
+
+msgid "You will be redirected to Novalnet AG website when you place the order."
+msgstr "Sie werden zur Website der Novalnet AG umgeleitet, sobald Sie die Bestellung bestätigen."
+
+msgid "Check Hash failed."
+msgstr "Überprüfen Hash gescheitert."
+
+msgid "Currency type is not allowed for this payment method"
+msgstr "Währung für diese Zahlungsart nicht zugelassen"
+
+msgid " TelephonePayment"
+msgstr " Telefonpayment"
+
+msgid "Telephone Payment"
+msgstr "Telefonpayment"
+
+msgid "Amounts below 0,90 Euros and above 10,00 Euros cannot be processed and are not accepted!"
+msgstr "Betraege unter 0,90 Euro und ueber 10,00 Euro koennen nicht verarbeitet werden bzw. werden nicht akzeptiert!"
+
+# Telephone Payment description
+msgid "Your amount will be added in your telephone bill when you place the order."
+msgstr "Ihr Betrag wird zu Ihrer Telefonrechnung hinzugefügt werden, wenn Sie die Bestellung aufgeben"
+
+# Telephone Payment response text
+msgid "Refer the steps which is mentioned in the telephone payment to complete the process"
+msgstr "Folgen Sie den Schritten, die für Telefonpayment angegeben sind, um den Vorgang abzuschließen"
+
+# Telephone Payment steps text info
+msgid "Following steps are required to complete your payment:"
+msgstr "Folgende Schritte sind notwendig, um Ihre Zahlung abzuschließen:"
+
+# Telephone Payment text step1
+msgid "Step 1:"
+msgstr "Schritt 1:"
+
+# Telephone Payment text step2
+msgid "Step 2:"
+msgstr "Schritt 2:"
+
+# Telephone Payment text step1 desc
+msgid "Please call the telephone number displayed:"
+msgstr "Bitte rufen Sie die angezeigte Telefonnummer an:"
+
+# Telephone Payment text step2 desc
+msgid "Please wait for the beep and then hang up the listeners."
+msgstr "Bitte warten Sie auf den Signalton und legen Sie dann den Hörer auf."
+
+msgid "In case your call was successful, please complete the payment."
+msgstr "War Ihr Anruf erfolgreich, schließen Sie bitte die Zahlung ab."
+
+# Telephone Payment text cost info
+msgid "* This call will cost"
+msgstr "* Dieser Anruf kostet"
+
+# Telephone Payment text tax info
+msgid "(including VAT) and it is possible only for German landline connection! *"
+msgstr "(inkl. MwSt.) und ist nur für Festnetzanschlüsse in Deutschland möglich! *"
+
+# Telephone Payment text tax info
+msgid "You have changed the order amount after receiving telephone number, please try again with a new call"
+msgstr "Sie haben die Bestellmenge nach Erhalt der Telefonnummer geändert, versuchen Sie es bitte noch einmal mit einem neuen Anruf"
+
+msgid "Please enable credit rating check"
+msgstr "Aktivieren Sie bitte die Bonitätsprüfung"
+
+msgid "Please install/enable the Open SSL PHP extension!"
+msgstr "Bitte installieren/aktivieren Open SSL-PHP-Erweiterung!"
+
+msgid "Please install/enable PHP CURL extension!"
+msgstr "Bitte installieren/aktivieren PHP CURL Erweiterung!"
+
+msgid "Novalnet Payment access key"
+msgstr "Novalnet Paymentzugriffsschlüssel"
+
+msgid "Enter your Novalnet payment access key"
+msgstr "Geben Sie Ihr Novalnet Paymentzugriffsschlüssel ein"
+
+msgid "Authentication Failed"
+msgstr "Authentifizierung fehlgeschlagen"
+
+msgid "Please Note: This transaction will run on TEST MODE and the amount will not be charged"
+msgstr "Bitte beachten Sie: Diese Transaktion wird im Test-Modus ausgeführt werden und der Betrag wird nicht belastet werden"
+
+msgid "Novalnet General Settings"
+msgstr "Novalnet Allgemeine Einstellungen"
+
+msgid "Novalnet Settings"
+msgstr "Novalnet Einstellungen"
+
+msgid "Novalnet Transaction Details"
+msgstr "Novalnet Transaktionsdetails"
+
+msgid "Address details are required to continue this transaction."
+msgstr "Um diese Zahlung fortzusetzen, müssen Sie eine Adresse angeben."
+
+msgid "Expiration Date"
+msgstr "Gültigkeit (Monat/Jahr)"
+
+msgid "ExpirationDate"
+msgstr "Gültigkeit(Monat/Jahr)"
+
+msgid "Novalnet Callback Script Settings"
+msgstr "Novalnet Händlerskript-Einstellungen"
+
+msgid "Enable Debug Mode"
+msgstr "Debug-Modus aktivieren"
+
+msgid "E-mail Send Option"
+msgstr "Einstellungen für Emailversand"
+
+msgid "E-mail From Name"
+msgstr "Email: Name des Absenders"
+
+msgid "E-mail From Address"
+msgstr "Email: Adresse des Absenders"
+
+msgid "E-mail To Address"
+msgstr "Email versenden an:"
+
+msgid "E-mail Body"
+msgstr "Emailtext"
+
+msgid "Enable Your Debug Mode"
+msgstr "Debug-Modus für Sie aktivieren"
+
+msgid "Enable Your E-mail Send Option"
+msgstr "Email-Versandoptionen für Sie aktivieren"
+
+msgid "Enter the Sender E-mail Name"
+msgstr "Email: Geben Sie den Namen des Absenders ein."
+
+msgid "Enter the Sender E-mail From Address"
+msgstr "Email: Geben Sie die Adresse des Absenders ein."
+
+msgid "Recipient E-mail Address (Use Multiple Email-ID's seprated by comma ( , ))"
+msgstr "Emailadressen der Empfänger (mehrere Adressen durch Komma ',' trennen)"
+
+msgid "E-mail Your Comment Text"
+msgstr "Email: Geben Sie den Kommentar ein, den Sie verschicken wollen"
+
+msgid "If You are Sending them a copy for their Information (Use Multiple Email-ID's seprated by comma ( , ))"
+msgstr "Emailadressen, an die eine Kopie zur Information verschickt wird (mehrere Adressen durch Komma ',' trennen)"
+
+msgid "Send a Message to “Undisclosed Recipients” (Use Multiple Email-ID's seprated by comma ( , ))"
+msgstr "Emailadressen, an die eine Blindkopie verschickt wird (mehrere Adressen durch Komma ',' trennen)"
+
+msgid "Notification mail for undefined payment types"
+msgstr "Benachrichtigung per Email bei nicht definierten Zahlungsarten"
+
+msgid "Other than Invoice, Prepayment and PayPal payment"
+msgstr "Außer Zahlung auf Rechnung, Vorkasse und über PayPal"
+
+msgid "sepa_en.jpg"
+msgstr "sepa_de.jpg"
+
+msgid "Amount value is not valid"
+msgstr "Ungültiger Betrag"
+
+msgid "You will be redirected to Novalnet AG in a few seconds."
+msgstr "Sie werden in wenigen Sekunden zur Novalnet AG weitergeleitet."
+
+msgid "Enable Novalnet Logo"
+msgstr "Novalnet-Logo aktivieren"
+
+msgid "To display Novalnet logo in front end"
+msgstr "Novalnet-Logo im Frontend anzeigen"
+
+msgid "On successful order a link for downloading the SEPA Mandate will be sent to the end user who has to print out and complete the form and send it per post to you. On receipt of this SEPA mandate, you need to confirm the mandate inside the admin portal giving the mandate date. Only then this transaction will be executed through Novalnet."
+msgstr "Bei einer erfolgreichen Bestellung erhält der Endkunde einen Link zum Downloaden des SEPA-Mandatsformulars und soll dieses vollständig ausgefüllt per Post an Sie senden. Sobald Sie das Mandat erhalten haben, bestätigen Sie dies manuell im Admin-Bereich und geben das Mandatsdatum ein. Erst dann wird die Zahlung durch Novalnet ausgeführt."
+
+msgid "SEPA Direct Debit SIGNED: Please note that in this process first only the order will be processed."
+msgstr "Lastschrift SEPA SIGNED: Bitte nehmen Sie zur Kenntnis, dass bei diesem Prozess zuerst nur die Bestellung ausgeführt wird."
+
+msgid "SEPA Direct Debit: Real time processing with online SEPA Direct Debit Mandate (electronic transmission)."
+msgstr "Lastschrift SEPA: Diese wird in Echtzeit inkl. des SEPA-Lastschriftmandats (elektronische Übermittlung) umgehend ausgeführt."
+
+msgid "Activates the Account Check Direct Control at the payment process"
+msgstr "Aktiviert den ACDC (Account Check Direct Control)-Check während des Bezahlvorgangs."
+
+msgid "Transaction reference 2"
+msgstr "2. Verwendungszweck"
+
+msgid "Transaction reference 1"
+msgstr "1. Verwendungszweck"
+
+msgid "Referrer ID"
+msgstr "Referrer-ID"
+
+msgid "Auto refill the payment data entered in payment page"
+msgstr "Eingabefelder des Bezahlformulars automatisch mit den Eingabedaten befüllen. (Auto-refill)"
+
+msgid "3D Secure(note : this has to be set up at Novalnet first. Please contact support@novalnet.de, in case you wish this.)"
+msgstr "3D Secure (Achtung : dies muss zuerst bei Novalnet eingerichtet werden: bitte wenden Sie sich an support@novalnet.de, falls Sie dies wünschen)"
+
+msgid "(Please note that this procedure has a low acceptance among end customers.) As soon as 3D-Secure is activated for credit cards, the bank prompts the end customer for a password, to prevent credit card abuse. This can serve as a proof, that the customer is actually the owner of the credit card"
+msgstr "(Bitte beachten Sie; dass dieses Verfahren nur eine geringe Akzeptanz bei Endkunden hat). Sobald 3D-Secure für Kreditkarten aktiviert ist, läßt die Bank den Käufer ein Passwort eingeben, um den Mißbrauch der Kreditkarte zu verhindern. Dies kann als Beweis verwendet werden, dass der Käufer tatsächlich der Inhaber der Kreditkarte ist."
+
+msgid "Second Product ID for manual check condition"
+msgstr "Zweite Produkt-ID für manuell überprüfte Buchungen"
+
+msgid "Second Tariff ID for manual check condition"
+msgstr "Zweite Tarif-ID, für manuell überprüfte Buchungen"
+
+msgid "Manual checking of order, above amount in cents (Note: this is a onhold booking, needs your manual verification and activation)"
+msgstr "Manuelle Überprüfung der Bestellung ab einem Betrag (in Cent) (Anmerkung: dies ist eine Zahlung on hold, welche Sie manuell überprüfen und aktivieren müssen.)"
+
+msgid "All the orders above this amount will be set on hold by Novalnet and only after your manual verifcation and confirmation at Novalnet the booking will be done"
+msgstr " Alle Bestellungen über diesem Betrag werden von Novalnet on hold gesetzt. Erst nach Ihrer manuellen Überprüfung und Bestätigung bei Novalnet, wird die Buchung ausgeführt."
+
+msgid "Mandate Signature Date"
+msgstr "Mandat Signatur Datum"
+
+msgid "Enter Mandate signature date in the format of DD-MM-YYYY"
+msgstr "Geben Mandat Signatur Datum im Format DD-MM-YYYY"
+
+msgid "Please confirm IBAN & BIC"
+msgstr "Bitte bestätigen Sie IBAN ünd BIC"
+
+msgid "SEPA Payment duration in days"
+msgstr "SEPA Zahlungsdauer in Tagen"
+
+msgid "SEPA Payment Type"
+msgstr "SEPA-Zahlungstyp"
+
+msgid "Download your mandate"
+msgstr "Ihr Mandat als PDF"
+
+msgid "Enter the Due date in days, it should be greater than 6. If you leave as empty means default value will be considered as 7 days"
+msgstr "Tragen Sie das Fälligkeitsdatum in Tagen ein, es sollten mehr als 6 Tage sein. Eine fehlerhafte Eingabe wird automatisch als 7 Tage übernommen."
+
+msgid "Please note that your account will be debited after receiving the signed mandate from you."
+msgstr "Bitte nehmen Sie zur Kenntnis, dass Ihr Konto nach dem Eingehen Ihres unterschriebenen Auftrags belasted wird"
+
+msgid "SEPA Due date is not valid"
+msgstr "SEPA Fälligkeitsdatum Ungültiger"
+
+msgid "Direct Debit SEPA"
+msgstr "Lastschrift SEPA"
+
+msgid "Novalnet Direct Debit SEPA"
+msgstr "Novalnet Lastschrift SEPA"
+
+msgid "Direct Debit SEPA Signed"
+msgstr "Lastschrift SEPA Signed"
+
+msgid "Mandate Confirmation"
+msgstr "Mandat Bestätigung"
+
+msgid "Novalnet Mandate Confirmation"
+msgstr "Novalnet Mandat Bestätigung"
+
+msgid "Novalnet Additional Configuration"
+msgstr "Novalnet Zusätzliche Konfigurations"
+
+msgid "Referrer ID of the partner at Novalnet, who referred you (only numbers allowed)"
+msgstr "ID des Partners bei Novalnet, der Ihnen Novalnet empfohlen hat (nur Ziffern erlaubt, ansonsten leer lassen)"
+
+msgid "This will appear in the transactions details / account statement"
+msgstr "Dies erscheint in den Transaktionsdetails / im Kontoauszug"
+
+msgid "Second Product ID in Novalnet to use the manual check condition"
+msgstr "Zweite Produkt-ID bei Novalnet, um Buchungen manuell zu überprüfen."
+
+msgid "Second Tariff ID in Novalnet to use the manual check condition"
+msgstr "Zweite Tarif-ID bei Novalnet, um Buchungen manuell zu überprüfen."
+
+msgid "Enable AMEX Logo"
+msgstr "AMEX-Logo aktivieren"
+
+msgid "Confirm Novalnet Mandate"
+msgstr "Novalnet mandat bestätigen"
+
+msgid "Confirm Mandate Date"
+msgstr "Bestätigen Mandat Datum"
+
+msgid "Click here"
+msgstr "Klicken Sie hier"
+
+msgid "Please confirm IBAN and BIC"
+msgstr "Bitte bestätigen Sie IBAN ünd BIC"
+
+msgid "Please select your order"
+msgstr "Bitte wählen Sie Ihre Bestellung"
+
+msgid "Mandate signature date is invalid"
+msgstr "Mandat Signatur Datum ist ungültige"
+
+msgid "Novalnet Mandate confirmed"
+msgstr "Novalnet Mandat bestätigt"
+
+msgid "Please enable ACDC Check."
+msgstr "Aktivieren Sie bitte den ACDC-Check."
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<menu>
+  <item>
+    <path>civicrm/callback_novalnet2civicrm</path>
+    <page_callback>CRM_Core_Payment_callbackscript</page_callback>
+    <title>Novalnet Callback Script</title>
+    <access_callback>1</access_callback>
+    <is_public>true</is_public>
+    <access_arguments>access content</access_arguments>
+  </item>
+</menu>

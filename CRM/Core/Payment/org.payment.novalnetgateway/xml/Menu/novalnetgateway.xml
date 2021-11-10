@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<menu>
+  <item>
+    <path>civicrm/admin/setting/novalnet</path>
+    <page_callback>CRM_Admin_Form_Setting_novalnetgatewayForm</page_callback>
+    <title>Novalnet Settings</title>
+    <!-- Change this as desired <adminGroup>CiviCase</adminGroup> -->
+    <access_arguments>administer CiviCRM</access_arguments>
+  </item>
+   <item>
+    <path>civicrm/admin/setting/novalnet/mandateconfirm</path>
+    <page_callback>CRM_Admin_Form_Setting_novalnetMandateConfirm</page_callback>
+    <title>Confirm Novalnet Mandate</title>
+    <!-- Change this as desired <adminGroup>CiviCase</adminGroup> -->
+    <access_arguments>administer CiviCRM</access_arguments>
+  </item>
+</menu>

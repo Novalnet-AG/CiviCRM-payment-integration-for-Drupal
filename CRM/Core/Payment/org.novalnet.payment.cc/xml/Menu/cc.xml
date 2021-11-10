@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<menu>
+  <item>
+    <path>civicrm/novalnetcc/complete</path>
+    <page_callback>CRM_Core_Payment_cccomplete</page_callback>
+    <title>Novalnet Credit Card</title>
+    <access_callback>1</access_callback>
+    <is_public>true</is_public>
+    <access_arguments>access content</access_arguments>
+  </item>
+</menu>
