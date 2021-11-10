@@ -5,7 +5,7 @@ The CiviCRM plugin by Novalnet for Drupal enables secure payment integration ser
 
 ## Integration Requirements
 
-The CiviCRM plugin for Drupal is available in EN & DE languages and requires curl installation in your system. For installation help please visit  http://curl.haxx.se/docs/install.html. Drupal version 7 or higher is required for our payment plugin CiviCRM versions 4.4.4 and lower.
+The CiviCRM plugin for Drupal is available in EN & DE languages and requires curl installation in your system. For installation help please visit  http://curl.haxx.se/docs/install.html. Drupal version 7 or higher is required for our payment plugin CiviCRM versions 5.0.0 to 5.38.0.
 Novalnet merchant account is required for processing all international and local payments in Drupal. You can get yours here: https://www.novalnet.de/kontakt/sales.
 
 
