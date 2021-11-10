@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<menu>
+  <item>
+    <path>civicrm/admin/setting/novalnet</path>
+    <page_callback>CRM_Admin_Form_Setting_NovalnetGatewayForm</page_callback>
+    <title>Novalnet Payment Configuration</title>
+    <access_arguments>administer CiviCRM</access_arguments>
+  </item>
+  <item>
+    <path>civicrm/novalnet/apicall</path>
+    <page_callback>CRM_Page_novalnetAJAX::apicall</page_callback>
+  </item>
+   <item>
+    <path>civicrm/callback_novalnet2civicrm</path>
+    <page_callback>CRM_Page_callbackscript</page_callback>
+    <access_arguments>access content</access_arguments>
+  </item>
+</menu>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <extension key="org.novalnet.payment.novalnetgateway" type="module">
+        <downloadUrl>www.novalnet.de</downloadUrl>
+        <file>novalnetgateway</file>
+        <name>Novalnet Gateway</name>
+        <label>Novalnet Gateway</label>
+        <description>Novalnet Gateway</description>
+        <urls>
+            <url>https://www.novalnet.de</url>
+        </urls>
+        <license>Novalnet</license>
+        <maintainer>
+            <author>Novalnet AG</author>
+            <email>info@novalnet.de</email>
+        </maintainer>
+        <releaseDate>2019-05-24</releaseDate>
+        <version>4.0.0</version>
+        <develStage>stable</develStage>
+        <compatibility>
+            <ver>5.18.4</ver>
+        </compatibility>
+        <civix>
+            <namespace>CRM/novalnetgateway</namespace>
+        </civix>
+    </extension>
