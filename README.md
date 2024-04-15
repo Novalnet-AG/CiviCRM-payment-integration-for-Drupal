@@ -20,7 +20,7 @@ Novalnet merchant account is required for processing all international and local
 - Susbscription Management
 - Responsive templates
 
-For detailed documentation and other technical inquiries, please send us an email at: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a>.
+For detailed documentation and other technical inquiries, please send us an email at: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a>
 
 ## Integrated Payment Methods 
 
